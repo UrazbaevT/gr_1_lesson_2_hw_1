@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Class {
+public enum Class {
+    SAMSUNG, APPLE, XIAOMI
 }
